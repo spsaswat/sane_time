@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sane_time</string>
+    <string-array name="weakends">
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="weakdays">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+</resources>

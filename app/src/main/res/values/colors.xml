@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>#a0bc5d
+    <color name="GreenSuperLight">#cdd885</color>
+    <color name="GreenLight">#A0BC5D</color>
+    <color name="GreenSpring">#00FF7F</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="FireBrick">#B22222</color>
+    <color name="RedSalmon">#FA8072</color>
+    <color name="RedCrimson">#DC143C</color>
+    <color name="PinkLightCoral">#F08080</color>
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="BlueSky">#87CEEB</color>
+    <color name="BlueRoyale">#4169E1</color>
+    <color name="BlueNavy">#000080</color>
+</resources>

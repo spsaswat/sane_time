@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fake_era.sane_time">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".admin_page"></activity>
+        <activity android:name=".updateuser" />
+        <activity android:name=".updatelogin" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".NewUser" />
+        <activity android:name=".UID" />
+        <activity android:name=".ThirdActivity" />
+        <activity android:name=".weekends_tasks" />
+        <activity android:name=".SubjectActivity" />
+        <activity android:name=".assignment_selfstudy_wknd" />
+        <activity android:name=".Classes" />
+        <activity android:name=".Outing_Shopping_Wknd" />
+        <activity android:name=".Personal_Cleanliness_Wknd" />
+        <activity android:name=".Hobby_Exercise_Wknd" />
+        <activity android:name=".Sleeping_Wknd" />
+        <activity android:name=".Eating_Wknd" />
+        <activity android:name=".Eating_Wkdy" />
+        <activity android:name=".Assignment_SelfStudy_Wkdy" />
+        <activity android:name=".Hobby_Exercise_Wkdy" />
+        <activity android:name=".Sleeping_Wkdy" />
+        <activity android:name=".Personal_Cleanliness_Wkdy" />
+        <activity android:name=".Miscellaneous_Wkdy" />
+        <activity android:name=".Miscellaneous_Wknd" />
+        <activity android:name=".Time_table" />
+    </application>
+
+</manifest>
